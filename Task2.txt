@@ -1,0 +1,15 @@
+In HTML, a comment is used to add notes within the code. When we use comments, the server does not render that code, but the code is still present on the web page. In HTML, we can invoke a comment by copying the text and pressing "Ctrl" + '/'. For example:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-16">
+    <title>custom title</title>
+</head>
+<body>
+    <h1>Manas</h1>
+    <!-- <h1>Nayak</h1> -->
+</body>
+</html>
+
+Here, `<!-- <h1>Nayak</h1> -->` is a comment. Comments can be used to hide content and also to hide inline content.

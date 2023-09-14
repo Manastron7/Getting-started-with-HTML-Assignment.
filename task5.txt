@@ -1,0 +1,1 @@
+The <!DOCTYPE> declaration represents the document type, and helps browsers to render web pages correctly. It is not considered a tag. It must only appear once, at the top of the page.The <!DOCTYPE> declaration is not case sensitive.
